@@ -2,8 +2,6 @@
 
 This project demonstrates a **Quantum Neural Network (QNN)** for classifying the **Wine dataset**, combining classical preprocessing with quantum circuit layers using **PennyLane** and **PyTorch**.
 
-📌 Author: [charu171103](https://github.com/charu171103)
-
 ---
 
 ## Overview
